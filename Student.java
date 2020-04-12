@@ -4,7 +4,7 @@ class Student {
 	String lastName;
 
 	//TODO constructor
-
+	ArrayList<Integer> grades=new ArrayList<>();
 	//TODO seters & getters
 
 	public double getAverage() {
